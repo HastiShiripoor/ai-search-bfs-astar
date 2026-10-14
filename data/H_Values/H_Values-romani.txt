@@ -1,0 +1,2 @@
+Arad,Bucharest,Craiova,Doberta,Eforie,Fagaras,Giurgiu,Hirsowa,Iasi,Lugoj,Mehadia,Neamt,Oradea,Pitesti,Rimnicu Vâlcea,Sibiu,Timisoara,Urziceni,Vaslui,Zerind
+366,0,160,242,161,176,77,151,226,244,241,234,380,10,193,253,329,80,199,374
